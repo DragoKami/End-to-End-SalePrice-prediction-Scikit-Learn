@@ -32,9 +32,9 @@ https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/evaluation
 
 The features can be seen below alog with their description:
 
-<img src="feat-img1">
-<img src="feat-img2">
-<img src="feat-img3">
+<img src="feat-img1.png">
+<img src="feat-img2.png">
+<img src="feat-img3.png">
 
 
 ## Steps to run:
